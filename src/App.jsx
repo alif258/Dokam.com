@@ -8,6 +8,8 @@ import Themes from './components/pages/Themes'
 import MobileApps from './components/pages/MobileApps'
 import Demo from './components/pages/Demo'
 import Resource from './components/pages/Resource'
+import Plugins from './components/pages/Plugins'
+import Pricing from './components/pages/Pricing'
 
 
 function App() {
@@ -25,6 +27,8 @@ function App() {
           <Route path="mobile-apps" element={<MobileApps />} />
           <Route path="demo" element={<Demo />} />
           <Route path="resource" element={<Resource />} />
+          <Route path="plugins" element={<Plugins />} />
+          <Route path="pricing" element={<Pricing />} />
 
         </Route>
       </Routes>
