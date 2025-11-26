@@ -48,7 +48,8 @@ const Pagination = () => {
 
   return (
     <div className="bg-[#F5F7F9] py-16 sm:py-20 lg:py-24">
-      <Container>
+      <Container className="px-6 sm:px-8 lg:px-0">
+
         <div className="text-gray-900">
 
           {/* Header */}
