@@ -135,10 +135,10 @@ const Footer = () => {
                 <Image src="/images/weDevs.png" />
                 <div className="text-center sm:text-right">
                   <p className="lato text-[14px] text-[#575757]">
-                    Copyright © 2008-2022, weDevs Pte. Ltd.
+                    Copyright © 2008-2022, weDevs Pte. Ltd. weDevs® is a registered
                   </p>
                   <p className="lato text-[14px] text-[#575757]">
-                    weDevs® is a registered trademark of weDevs Pte. Ltd.
+                    trademark of weDevs Pte. Ltd.
                   </p>
                 </div>
               </div>
